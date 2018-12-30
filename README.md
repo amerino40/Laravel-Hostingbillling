@@ -32,5 +32,5 @@ All changes are covered in the  [changelog](https://github.com/amerino40/Laravel
 Get in touch personally using;
 
 -   [Discord chat](https://hostbilling.com/chat).
--   [Twitter](http://twitter.com/hostbilling).
+-   [Twitter](https://twitter.com/hostbilling).
 
